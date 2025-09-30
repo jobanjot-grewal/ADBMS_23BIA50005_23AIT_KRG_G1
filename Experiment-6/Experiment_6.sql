@@ -138,4 +138,3 @@ $$;
 
 
 CALL pr_buy_products ('MacBook Pro 14"', 1);
-CALL pr_buy_products ('MacBook Pro 14"', 1);
